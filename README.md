@@ -56,6 +56,7 @@ bash
 Copy
 Edit
 python main.py
+python cyber.py
 
 👤 Author
 Harsh Bhanderi
